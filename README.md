@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Vengoooo777
+- 👀 I’m interested in coding my own language
+- 🌱 I’m currently learning luua
+- 💞️ I’m looking to collaborate on stuff
+- 📫 How to reach me vengoooo3745@gmail.com
